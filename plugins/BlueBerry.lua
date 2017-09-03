@@ -291,7 +291,7 @@ local text = '*Wlcome To Manager Group BlueBerryApi Bot*'
 	},{
 	{text = "Aboutًں“œ", callback_data="/dev"}
   },{
-   {text = "Channelًں”–", url="https://t.me/BlueBerryTeam"}
+   {text = "Channelًں”–", url="https://t.me/NationalTM"}
   },{
    {text = "Close", callback_data="/close"}
     }
@@ -321,7 +321,7 @@ local text = '*My Creator*'
  keyboard = {} 
  keyboard.inline_keyboard = {
     {
-    {text = "Soheil", url="https://t.me/So8eil"}, {text = "MrLucas", url="https://t.me/DeVe_TeLeGrAm"}
+    {text = "BlackIntell", url="https://t.me/BlackIntell"}, {text = "HsamDew", url="https://t.me/HsamDew"}
 },{
    {text = "Backًں”™", callback_data="/groupmod"}, {text = "Home", callback_data="/lang"}
     }
